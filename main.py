@@ -5,3 +5,4 @@ def my_function(fname, lname):
 
 my_function("syed", "anees")
 my_function("inshaa", "maryam")
+my_function("ilham", "fatimah")
